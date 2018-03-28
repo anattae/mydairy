@@ -1,0 +1,49 @@
+header {
+    background-color: blue;
+    color: greenyellow;
+    font-family: 'Times New Roman', Times, serif;
+    padding-right: 200px;
+}
+
+h2 {
+    background-color: blue;
+    color: greenyellow;
+    font-family: 'Times New Roman', Times, serif;
+    padding-right: 200px;
+}
+
+body {
+    background-image: url("image/page.jpg");
+    padding-right: 200px;
+    padding-left: 200px;
+    margin-left: auto;
+    margin-right: auto; 
+    padding-top: 50px;
+}
+
+fieldset {
+    border-radius:  10px;
+}
+
+form {
+    background: yellow;
+    padding-bottom: 15px;
+    padding-top: 5px;
+}
+
+img {
+    float: right;
+    padding-inline-start: 20px;
+    height: 200px;
+    width: 200px;
+}
+
+button {
+    margin-left: 100px;
+}
+
+small {
+    font-size: 1mm;
+    color: red;
+    font-style: italic;
+}
